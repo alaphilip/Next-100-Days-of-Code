@@ -13,3 +13,12 @@ The Odin Project's Full Stack JavaScript course
 5 personal coding projects, including a neighbourhood skillshare website
 
 **Link to work:** [This repository](https://github.com/alaphilip/Next-100-Days-of-Code)
+
+### Day 1: Thursday 23rd March 2023
+
+**Today's Progress**: Tweeted my commitment to the project. Built a survey form with HTML and CSS.
+
+**Thoughts:** I was almost too busy setting up this project to actually begin it.
+I built a survey form with HTML and CSS: the first certification project for FreeCodeCamp's Responsive Web Design curriculum.
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/alaphilip)
