@@ -22,3 +22,12 @@ The Odin Project's Full Stack JavaScript course
 I built a survey form with HTML and CSS: the first certification project for FreeCodeCamp's Responsive Web Design curriculum.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/alaphilip)
+
+### Day 2: Friday 24th March 2023
+
+**Today's Progress**: University of Helsinki's Python Programming MOOC 2023 - Part 1 - Sections 1-3.
+
+**Thoughts:** This is going to become a messy log, and I'll need to fix that.
+Later.
+Today I had a lot on at work and I've had time to complete the opening 3 sections of this MOOC.
+There's no easily shareable link to my work on the MOOC - but I'll add anything cool I create from it here.
