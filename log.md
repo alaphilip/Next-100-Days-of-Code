@@ -32,8 +32,14 @@ Later.
 Today I had a lot on at work and I've had time to complete the opening 3 sections of this MOOC.
 There's no easily shareable link to my work on the MOOC - but I'll add anything cool I create from it here.
 
-### Day 3: Saturday 24th March 2023
+### Day 3: Saturday 25th March 2023
 
 **Today's Progress**: University of Helsinki's Python Programming MOOC 2023 - Part 1 - Sections 4-5.
 
 **Thoughts:** Completed Part 1/7 of the Introduction to Programming section.
+
+### Day 4: Sunday 26th March 2023
+
+**Today's Progress**: University of Helsinki's Python Programming MOOC 2023 - Part 2 - Sections 1-2.
+
+**Thoughts:** ... making slow progress at the start. Looking forward to getting more stuck in soon!
