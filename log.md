@@ -43,3 +43,11 @@ There's no easily shareable link to my work on the MOOC - but I'll add anything 
 **Today's Progress**: University of Helsinki's Python Programming MOOC 2023 - Part 2 - Sections 1-2.
 
 **Thoughts:** ... making slow progress at the start. Looking forward to getting more stuck in soon!
+
+### Day 5: Tuesday 28th March 2023
+
+**Today's Progress**: Created a 'Rothko painting' using CSS via FreeCodeCamp.
+
+**Thoughts:** You're allowed one skip day, right? So long as it's no more than one in a row? Busy yesterday.
+
+
