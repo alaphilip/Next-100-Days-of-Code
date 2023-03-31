@@ -50,4 +50,23 @@ There's no easily shareable link to my work on the MOOC - but I'll add anything 
 
 **Thoughts:** You're allowed one skip day, right? So long as it's no more than one in a row? Busy yesterday.
 
+### Day 6: Thursday 30th March 2023
 
+**Today's Progress**: Completed penultimate bootcamp task, including a coding challenge.
+
+**Thoughts:** I may have skipped two days this week. Busy with work and life. But, almost there with my bootcamp.
+Today I almost finished the 'coding employability' tasks, including writing functions for an Exercism challenge.
+
+**Link to work:** [Exercism: Little Sister's Vocabulary challenge](https://exercism.org/tracks/python/exercises/little-sisters-vocab)
+
+### Day 5: Friday 31st March 2023
+
+**Today's Progress**: Completed my final bootcamp task! 🥳
+
+**Thoughts:** Today and yesterday I've focused on finishing the 'build your brand' tasks I'd left until last.
+I've now 100% completed all compulsory and optional tasks on the HyperionDev software engineering bootcamp.
+My average grade was 100%, and I've practiced using Python, HTML, CSS, SQL and Django.
+I'm not sure exactly what this means, but I ranked 16th out of 882 students on the programme.
+Looking forward to earning some more certificates and learning some cool things.
+
+**Link to work:** [My portfolio](https://www.hyperiondev.com/portfolio/120583/)
